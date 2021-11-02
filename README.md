@@ -5,3 +5,5 @@
 - [인터럽트](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Interrupt.md) : 인터럽트 개념 (with Mode bit)
 - [프로세스 & 스레드](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Process.md)
 - [프로세스의 동작](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Process%20Management.md) : 기본적인 생성부터 소멸까지
+- [CPU 스케쥴링](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CPU%20scheduling.md)
+- [동기화](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Process%20Synchronization.md)
