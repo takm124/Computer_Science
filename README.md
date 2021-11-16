@@ -16,3 +16,4 @@ ref : http://www.kocw.net/home/cview.do?cid=3646706b4347ef09 (운영체제, 반�
 - [가상 메모리](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Virtual%20Memory.md)
 - [파일 시스템 1](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/File%20System.md)
 - [파일 시스템 2](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/File%20System%20Implementation.md)
+- [디스크](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Disk%20Management%20and%20Scheduling.md)
