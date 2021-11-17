@@ -17,3 +17,8 @@ ref : http://www.kocw.net/home/cview.do?cid=3646706b4347ef09 (운영체제, 반�
 - [파일 시스템 1](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/File%20System.md)
 - [파일 시스템 2](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/File%20System%20Implementation.md)
 - [디스크](https://github.com/takm124/Computer_Science/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Disk%20Management%20and%20Scheduling.md)
+
+
+# 데이터베이스
+ref : http://www.kocw.net/home/cview.do?cid=d549f8570583094b (데이터 베이스, 용환승)
+- [관계 대수](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/Relational_Algebra.md)
