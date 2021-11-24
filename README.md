@@ -23,4 +23,5 @@ ref : http://www.kocw.net/home/cview.do?cid=3646706b4347ef09 (운영체제, 반�
 ref : http://www.kocw.net/home/cview.do?cid=d549f8570583094b (데이터 베이스, 용환승)
 - [관계 대수](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/Relational_Algebra.md)
 - [SQL](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL.md)
+- [무결성 제약조건](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%AC%B4%EA%B2%B0%EC%84%B1%20%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4.md)
 - [데이터베이스 설계](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
