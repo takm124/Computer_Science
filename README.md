@@ -27,3 +27,4 @@ ref : http://www.kocw.net/home/cview.do?cid=d549f8570583094b (데이터 베이�
 - [데이터베이스 설계](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
 - [물리적 데이터베이스 설계](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%AC%BC%EB%A6%AC%EC%A0%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)
 - [인덱스](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
+- [트랜잭션](https://github.com/takm124/Computer_Science/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/Transaction.md)
